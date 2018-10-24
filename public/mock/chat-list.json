@@ -1,0 +1,235 @@
+{
+	"code": 0,
+	"data": [
+		{
+			"mid": 1,
+			"type": "friend",
+			"group_name": "",
+			"group_qrCode": "",
+			"read": true,
+			"newMsgCount": 1,
+			"quiet": false,
+			"msg": [
+				{
+					"text": "长按这些白色框消息，唤醒消息操作菜单，长按这些白色框消息，唤醒消息操作菜单",
+					"date": 1488117964495,
+					"name": "阿荡",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/header01.png"
+				},
+				{
+					"text": "点击空白处，操作菜单消失",
+					"date": 1488117964495,
+					"name": "阿荡",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/header01.png"
+				},
+				{
+					"text": "来呀 快活啊",
+					"date": 1488117964495,
+					"name": "阿荡",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/header01.png"
+				}
+			],
+			"users": [
+				{
+					"wxid": "wxid_zhaohd",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/header01.png",
+					"nickname": "阿荡"
+				}
+			]
+		},
+		{
+			"mid": 2,
+			"type": "group",
+			"group_name": "收购万达讨论群",
+			"group_qrCode": "",
+			"read": false,
+			"newMsgCount": 1,
+			"quiet": true,
+			"msg": [
+				{
+					"text": "长按消息，唤醒消息操作菜单",
+					"date": 1488117964495,
+					"name": "夜华",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/yehua.jpg"
+				},
+				{
+					"text": "点击空白处，操作菜单消失",
+					"date": 1488117964495,
+					"name": "阿荡",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/header01.png"
+				},
+				{
+					"text": "我试一试，谢谢啦",
+					"date": 1539425237320,
+					"name": "夜华",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/yehua.jpg"
+				}
+			],
+			"users": [
+				{
+					"wxid": "wxid_zhaohd",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/header01.png",
+					"nickname": "阿荡"
+				},
+				{
+					"wxid": "wxid_liubei",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/liubei.jpg",
+					"nickname": "刘备"
+				},
+				{
+					"wxid": "wxid_yehua",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/yehua.jpg",
+					"nickname": "夜华"
+				}
+			]
+		},
+		{
+			"mid": 3,
+			"type": "group",
+			"group_name": "收购淘宝讨论群",
+			"group_qrCode": "",
+			"read": true,
+			"newMsgCount": 1,
+			"quiet": true,
+			"msg": [
+				{
+					"text": "冒个泡",
+					"date": 1488117964495,
+					"name": "诸葛亮",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/zhugeliang.jpg"
+				}
+			],
+			"users": [
+				{
+					"wxid": "wxid_sunshangxiang",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/sunshangxiang.jpg",
+					"nickname": "孙尚香"
+				},
+				{
+					"wxid": "wxid_zhaohd",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/header01.png",
+					"nickname": "阿荡"
+				},
+				{
+					"wxid": "wxid_yehua",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/yehua.jpg",
+					"nickname": "夜华"
+				},
+				{
+					"wxid": "wxid_liubei",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/liubei.jpg",
+					"nickname": "刘备"
+				},
+				{
+					"wxid": "wxid_huangyueying",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/huangyueying.jpg",
+					"nickname": "黄月英"
+				},
+				{
+					"wxid": "wxid_zhenji",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/zhenji.jpg",
+					"nickname": "甄姬"
+				},
+				{
+					"wxid": "wxid_zhugeliang",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/zhugeliang.jpg",
+					"nickname": "诸葛亮"
+				},
+				{
+					"wxid": "wxid_baiqian",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/baiqian.jpg",
+					"nickname": "白浅"
+				},
+				{
+					"wxid": "wxid_guangyu",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/guangyu.jpg",
+					"nickname": "关羽"
+				}
+			]
+		},
+		{
+			"mid": 4,
+			"type": "friend",
+			"group_name": "",
+			"group_qrCode": "",
+			"read": false,
+			"newMsgCount": 4,
+			"quiet": false,
+			"msg": [
+				{
+					"text": "长按消息，唤醒消息操作菜单",
+					"date": 1488117964495,
+					"name": "孙权",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/sunquan.jpg"
+				},
+				{
+					"text": "点击空白处，操作菜单消失",
+					"date": 1488117964495,
+					"name": "孙权",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/sunquan.jpg"
+				},
+				{
+					"text": "容我三思",
+					"date": 1488117964495,
+					"name": "孙权",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/sunquan.jpg"
+				}
+			],
+			"users": [
+				{
+					"wxid": "wxid_sunquan",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/sunquan.jpg",
+					"nickname": "孙权"
+				}
+			]
+		},
+		{
+			"mid": 5,
+			"type": "friend",
+			"group_name": "",
+			"group_qrCode": "",
+			"read": false,
+			"newMsgCount": 4,
+			"quiet": false,
+			"msg": [
+				{
+					"text": "夫君,身体要紧~ ",
+					"date": 1488117964495,
+					"name": "孙尚香",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/sunshangxiang.jpg"
+				}
+			],
+			"users": [
+				{
+					"wxid": "wxid_sunshangxiang",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/sunshangxiang.jpg",
+					"nickname": "孙尚香"
+				}
+			]
+		},
+		{
+			"mid": 6,
+			"type": "friend",
+			"group_name": "",
+			"group_qrCode": "",
+			"read": false,
+			"newMsgCount": 4,
+			"quiet": true,
+			"msg": [
+				{
+					"text": "三姓家奴！ ",
+					"date": 1488117964495,
+					"name": "关羽",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/guangyu.jpg"
+				}
+			],
+			"users": [
+				{
+					"wxid": "wxid_guangyu",
+					"avatar": "https://sinacloud.net/vue-wechat/images/headers/guangyu.jpg",
+					"nickname": "关羽"
+				}
+			]
+		}
+	]
+}
